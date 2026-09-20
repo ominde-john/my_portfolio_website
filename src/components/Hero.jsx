@@ -5,7 +5,7 @@ import { Globe } from './Globe';
 export const Hero = () => {
   const line1 = useTypewriter('> Initializing system...', 30, 0);
   const line2 = useTypewriter('> Loading root access...', 40, 1000);
-  const line3 = useTypewriter('> Hello, I am a Cybersecurity Specialist.', 50, 2500);
+  const line3 = useTypewriter('> Hello, I am John Ominde, a Cybersecurity Specialist.', 50, 2500);
 
   return (
     <section className="min-h-screen flex flex-col md:flex-row items-center gap-12 md:gap-8 px-6 max-w-6xl mx-auto pt-32 md:pt-20 relative">
