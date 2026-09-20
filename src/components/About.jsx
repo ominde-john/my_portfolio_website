@@ -20,8 +20,8 @@ export const About = () => {
       <div className="flex flex-col md:flex-row gap-12 items-start">
         <div className="w-full md:w-2/3 space-y-6 text-gray-400 text-lg leading-relaxed">
           <p>
-            Hello! I'm John Ominde, a security researcher and penetration tester based in San Francisco.
-            My interest in cybersecurity started back in 2018 when I realized how fragile the
+            Hello! I'm John Ominde, a security researcher and penetration tester.
+            My interest in cybersecurity started back in 2024 when I realized how fragile the
             systems we rely on every day actually are. Since then, I've dedicated myself to
             understanding how things break so I can help build them stronger.
           </p>
