@@ -20,23 +20,32 @@ export const About = () => {
       <div className="flex flex-col md:flex-row gap-12 items-start">
         <div className="w-full md:w-2/3 space-y-6 text-gray-400 text-lg leading-relaxed">
           <p>
-            Hello! I'm John Ominde, a security researcher and penetration tester.
-            My interest in cybersecurity started back in 2024 when I realized how fragile the
-            systems we rely on every day actually are. Since then, I've dedicated myself to
-            understanding how things break so I can help build them stronger.
+            Hello! I'm John Ominde, a cybersecurity professional in training based in Kenya. My
+            interest in cybersecurity grew from wanting to understand how the systems we rely on
+            every day can be attacked, defended, and made more resilient.
           </p>
           <p>
-            Fast-forward to today, and I've had the privilege of working at an{' '}
-            <span className="text-green-400">enterprise security firm</span>, a{' '}
-            <span className="text-green-400">fintech start-up</span>, and running{' '}
-            <span className="text-green-400">independent bug bounties</span>. My main focus these
-            days is conducting red team engagements and building robust security automation tools
-            for cloud native environments.
+            I'm currently building my foundation across network security, Linux, threat
+            detection, security operations, and incident response. I'm also completing the Google
+            Cybersecurity Professional Certificate while developing practical skills through
+            hands-on labs, investigations, and security projects.
           </p>
           <p>
-            When I'm not in front of a terminal hunting for zero-days, you can find me
-            participating in CTF competitions (currently ranked top 100 on HackTheBox), tinkering
-            with IoT hardware, or exploring the outdoors.
+            My main focus is security operations and defensive cybersecurity — investigating
+            suspicious activity, analyzing security alerts, understanding attack techniques, and
+            learning how security teams detect and respond to incidents. I'm particularly
+            interested in SOC operations, SIEM, threat detection, incident response, and
+            vulnerability management.
+          </p>
+          <p>
+            My goal is to grow into a Security Operations / SOC Analyst role where I can apply my
+            technical skills to real-world security problems, continue learning from experienced
+            security professionals, and contribute to protecting organizations and their users.
+          </p>
+          <p>
+            When I'm away from the terminal, I'm usually learning something new, working through
+            cybersecurity labs, or turning what I've learned into practical projects. I believe
+            cybersecurity is a field built on curiosity, persistence, and continuous learning.
           </p>
 
           <div className="pt-8">
